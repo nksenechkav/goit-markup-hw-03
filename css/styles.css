@@ -65,8 +65,6 @@ display: flex;
 flex-grow: 1;
 margin-right: 332px;
 align-items: center; 
-padding-top: 24px;
-padding-bottom: 24px; 
 }
 .header-container {
     display: flex;
@@ -93,6 +91,8 @@ display: flex;
 gap: 40px;
 }
 .header-address-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
         
 }
 .header-address-link {
@@ -113,7 +113,8 @@ color:#404bbf;
     gap: 40px;
 }
 .header-menu-item {
-    
+    padding-top: 24px;
+    padding-bottom: 24px;  
 }
 .header-menu-link:hover,  .header-menu-link:focus {
 color:#404bbf;
