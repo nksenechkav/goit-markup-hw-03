@@ -65,12 +65,12 @@ display: flex;
 flex-grow: 1;
 margin-right: 332px;
 align-items: center; 
+padding-top: 24px;
+padding-bottom: 24px; 
 }
 .header-container {
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px; 
 }
 .header-logo {
 color: #4D5AE5;
