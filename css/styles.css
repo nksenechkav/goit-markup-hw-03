@@ -32,8 +32,6 @@ address {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .visually-hidden {
@@ -112,7 +110,7 @@ color:#404bbf;
     gap: 40px;
 }
 .header-menu-item {
-   
+    padding: 24px 0;
 }
 .header-menu-link:hover,  .header-menu-link:focus {
 color:#404bbf;
