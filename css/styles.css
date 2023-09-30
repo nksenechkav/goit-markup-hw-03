@@ -110,7 +110,8 @@ color:#404bbf;
     gap: 40px;
 }
 .header-menu-item {
-    padding: 24px 0;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .header-menu-link:hover,  .header-menu-link:focus {
 color:#404bbf;
