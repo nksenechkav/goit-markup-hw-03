@@ -53,7 +53,6 @@ address {
 .header {
 background-color: #FFF; 
 border-bottom: 1px solid #E7E9FC;
-padding: 24px 0;
 }
 
 .header-navigation {
@@ -109,6 +108,8 @@ color:#404bbf;
 .header-menu-list {
     display: flex;
     gap: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .header-menu-item {
 
