@@ -7,8 +7,7 @@ ul {
     margin-top: 0; margin-bottom: 0;
     padding-left: 0;
     list-style: none;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 24px 0;
 }
 a {
     color: #2E2F42;
