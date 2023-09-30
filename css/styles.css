@@ -7,6 +7,8 @@ ul {
     margin-top: 0; margin-bottom: 0;
     padding-left: 0;
     list-style: none;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 a {
     color: #2E2F42;
@@ -110,8 +112,7 @@ color:#404bbf;
     gap: 40px;
 }
 .header-menu-item {
-    padding-top: 24px;
-    padding-bottom: 24px;
+   
 }
 .header-menu-link:hover,  .header-menu-link:focus {
 color:#404bbf;
