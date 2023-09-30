@@ -91,9 +91,7 @@ font-style: normal;
 display: flex;
 gap: 40px;
 }
-.header-address-item {
-    padding-top: 24px;
-    padding-bottom: 24px;      
+.header-address-item {    
 }
 .header-address-link {
 color: #434455;
