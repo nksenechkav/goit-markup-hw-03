@@ -53,8 +53,6 @@ address {
 .header {
 background-color: #FFF; 
 border-bottom: 1px solid #E7E9FC;
-padding-top: 24px;
-padding-bottom: 24px; 
 }
 
 .header-navigation {
@@ -71,7 +69,8 @@ align-items: center;
 .header-container {
     display: flex;
     align-items: center;
-    
+    padding-top: 24px;
+    padding-bottom: 24px; 
 }
 .header-logo {
 color: #4D5AE5;
@@ -270,8 +269,8 @@ margin-bottom: 72px;
 }
 .portfolio-card {
     padding: 32px 16px;
-    border-top: none;
     border: 1px solid #e7e9fc; 
+    border-top: none;
 }
 .portfolio-list {
     display: flex;
